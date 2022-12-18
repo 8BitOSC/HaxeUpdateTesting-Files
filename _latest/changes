@@ -3,4 +3,4 @@ CHANGE version.txt
 ADD assets/images/homer.png
 REMOVE assets/test.txt
 REMOVE assets/testfolder
-ADD assets/testfolder2
+REMOVE assets/testfolder2
