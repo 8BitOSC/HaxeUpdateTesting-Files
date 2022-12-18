@@ -1,6 +1,6 @@
-CHANGE ut.exe
-CHANGE version.txt
 ADD assets/images/homer.png
 REMOVE assets/test.txt
 REMOVE assets/testfolder
 REMOVE assets/testfolder2
+CHANGE ut.exe
+CHANGE version.txt
